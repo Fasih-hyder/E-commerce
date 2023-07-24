@@ -1,0 +1,26 @@
+
+ul{
+    padding: 120px;
+
+
+}
+
+.btn-orange{
+    background: #EF790C !important;
+
+
+}
+
+.color-orange{
+    color: #EF790C !important;
+}
+
+.bg-color{
+    background: rgba(239, 121, 12, 0.08);
+
+}
+
+.footer-bg-color{
+    background: rgba(239, 121, 12, 0.05);
+
+}
